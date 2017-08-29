@@ -21,7 +21,7 @@
         "bin-dir": "bin"
     },
     "autoload": {
-        "psr-4": { "Zentio\\AngularBundle\\": "" }
+        "psr-4": { "Hshn\\AngularBundle\\": "" }
     },
     "extra": {
         "branch-alias": {
