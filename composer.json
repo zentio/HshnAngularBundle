@@ -1,5 +1,5 @@
 {
-    "name": "hshn/angular-bundle",
+    "name": "zentio/angular-bundle",
     "description": "Symfony HshnAngularBundle",
     "license": "MIT",
     "authors": [
@@ -21,7 +21,7 @@
         "bin-dir": "bin"
     },
     "autoload": {
-        "psr-4": { "Hshn\\AngularBundle\\": "" }
+        "psr-4": { "Zentio\\AngularBundle\\": "" }
     },
     "extra": {
         "branch-alias": {
